@@ -1,8 +1,5 @@
 # SERP API Mega Comparison: Why SerpBase Should Be on Your Shortlist
 
-> Last updated: 2026-04-23  
-> Scope: this comparison focuses on SerpApi-style services: structured APIs for Google / SERP search results. To keep the comparison aligned with SerpBase positioning, providers publicly advertising prices below SerpBase's lowest rate of **$0.30 / 1k** are not included in the main table. Some vendors charge differently based on depth, AI Overview, Google Maps, JavaScript rendering, proxy type, batch queues, or geo-targeting, so final costs should always be verified on the official pricing pages. Latency figures are based on off-peak tests or public claims where available; peak-hour latency may vary depending on traffic, region, search type, and network conditions.
-
 [中文版本](README.zh-CN.md)
 
 ## Short Verdict
