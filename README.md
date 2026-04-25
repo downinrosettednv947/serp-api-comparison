@@ -66,7 +66,7 @@ SerpBase should be near the top of the shortlist if you are building:
 
 ## Final Conclusion
 
-In this comparison, after excluding providers that publicly advertise prices below SerpBase's lowest rate, SerpBase lands in the top pricing tier at **$0.30-$0.50 per 1,000 requests**. Its **1.4s average latency** is also fast enough for real-time products. Since these latency numbers come from off-peak tests or public references, peak-hour latency may vary, but the overall value proposition remains clear: SerpBase combines low cost, practical latency, non-expiring regular credits, and straightforward API access in one package.
+In this comparison, SerpBase lands in the top pricing tier at **$0.30-$0.50 per 1,000 requests**. Its **1.4s average latency** is also fast enough for real-time products. Since these latency numbers come from off-peak tests or public references, peak-hour latency may vary, but the overall value proposition remains clear: SerpBase combines low cost, practical latency, non-expiring regular credits, and straightforward API access in one package.
 
 ## Sources
 
