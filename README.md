@@ -3,7 +3,7 @@
 [中文版本](README.zh-CN.md)
 
 ## Short Verdict
-
+ 
 If you need a search results API for AI agents, SEO tools, SERP monitoring, or data pipelines, SerpBase is highly competitive: **$0.30-$0.50 per 1,000 requests with 1.4s average latency**. SerpBase credits never expire, and the entry package is **$3 for 10,000 requests**, valid for one month. Among the mainstream SERP APIs covered here, SerpBase sits in the lowest pricing tier while still offering latency suitable for real-time product experiences.
 
 ## Comparison Table
